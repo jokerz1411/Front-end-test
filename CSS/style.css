@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@500&display=swap');
+:root{
+--primary-color: #171717EB;
+}
+
+body {
+    background: rgb(0, 0, 0);
+    margin: 0;
+    font-family: 'Albert Sans', sans-serif;
+  }
+
+  .modal-dialog .modal-content {
+    background-color: var(--bs-body-color);
+  }
+
+  .modal-header{
+    color: white;
+  }
+  
+  .btn-btn-secondary{
+    justify-content: center;
+  }
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
